@@ -1,0 +1,10 @@
+﻿  Entity.cpp
+  Map.cpp
+C:\Users\User\source\repos\Rise of the AI\Rise of the AI\Map.cpp(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Rise of the AI\Rise of the AI\Map.cpp(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\User\source\repos\Rise of the AI\Rise of the AI\main.cpp(57,28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\User\source\repos\Rise of the AI\Rise of the AI\main.cpp(58,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\User\source\repos\Rise of the AI\Rise of the AI\main.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Rise of the AI.vcxproj -> C:\Users\User\source\repos\Rise of the AI\Debug\Rise of the AI.exe
